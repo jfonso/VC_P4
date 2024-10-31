@@ -1,0 +1,13 @@
+path: \\?\C:\Users\Usuario\VC_RES\VC_P4\Traffic Dataset\res\YOLODataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+    0: Car
+    1: Number Plate
+    2: Two Wheeler
+    3: Auto
+    4: Bus
+    5: Person
+    6: Truck
